@@ -1,4 +1,4 @@
-<script>
+<script setup>
 defineProps({
   playing: Boolean,
 });
@@ -20,7 +20,7 @@ defineEmits(["toggle"]);
       reconnect with the beauty of the earth.
     </p>
 
-    <button @click="$emit('toogle')">
+    <button @click="$emit('toggle')">
       {{ playing ? "❚❚ Pause Animation" : "▶ Play Animation" }}
     </button>
 

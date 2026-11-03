@@ -1,5 +1,41 @@
-# Vue 3 + Vite
+# Nature Motion 🌿
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An interactive nature animation website built with Vue.js 3.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- Animated forest background
+- Glowing sunlight
+- Floating clouds
+- Animated sunlight rays
+- Flying butterflies
+- Falling leaves
+- Interactive mouse parallax
+- Play and pause animation controls
+- Responsive layout
+
+## Tech Stack
+
+- Vue.js 3
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## Installation
+
+```bash
+git clone https://github.com/gunturlailam/nature-motion.git
+
+cd nature-motion
+
+npm install
+
+npm run dev
+```
+
+## Author
+
+Guntur Lailam Yuro
+
+GitHub: https://github.com/gunturlailam

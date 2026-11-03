@@ -49,7 +49,7 @@ defineProps({
   inset: 0;
   z-index: -1;
   background:
-    linear-gradient(180deg, rgba(5, 20, 19, 0.05), rgba(5, 20, 19.25)),
+    linear-gradient(180deg, rgba(5, 20, 19, 0.05), rgba(5, 20, 19, 0.25)),
     url("https://images.unsplash.com/photo-1448375240586-882707db888b?w=1800")
       center / cover no-repeat;
   transition: transform 0.3s ease-out;
